@@ -1,0 +1,119 @@
+{
+  "layers": [
+    {
+      "name": "1",
+      "basePath": "/themes/parallax/assets/1",
+      "format": "png",
+      "qualities": [
+        {
+          "name": "medium",
+          "suffix": "",
+          "minMemory": 2
+        }
+      ],
+      "speed": 0.8,
+      "direction": "horizontal",
+      "zIndex": -400,
+      "opacity": 1,
+      "targetElement": "body",
+      "scrollContainer": ".right-area",
+      "repeat": "repeat-x"
+    },
+    {
+      "name": "2",
+      "basePath": "/themes/parallax/assets/2",
+      "format": "png",
+      "qualities": [
+        {
+          "name": "medium",
+          "suffix": "",
+          "minMemory": 2
+        }
+      ],
+      "speed": 0.72,
+      "direction": "horizontal",
+      "zIndex": -300,
+      "opacity": 1,
+      "targetElement": "body",
+      "scrollContainer": ".right-area",
+      "repeat": "repeat-x"
+    },
+    {
+      "name": "3",
+      "basePath": "/themes/parallax/assets/3",
+      "format": "png",
+      "qualities": [
+        {
+          "name": "medium",
+          "suffix": "",
+          "minMemory": 3
+        }
+      ],
+      "speed": 0.64,
+      "direction": "horizontal",
+      "zIndex": -100,
+      "opacity": 1,
+      "targetElement": "body",
+      "scrollContainer": ".right-area",
+      "repeat": "repeat-x"
+    },
+    {
+      "name": "4",
+      "basePath": "/themes/parallax/assets/4",
+      "format": "png",
+      "qualities": [
+        {
+          "name": "medium",
+          "suffix": "",
+          "minMemory": 2
+        }
+      ],
+      "speed": 0.56,
+      "direction": "horizontal",
+      "zIndex": -50,
+      "opacity": 1,
+      "targetElement": "body",
+      "scrollContainer": ".right-area",
+      "repeat": "repeat-x"
+    },
+    {
+      "name": "5",
+      "basePath": "/themes/parallax/assets/5",
+      "format": "png",
+      "qualities": [
+        {
+          "name": "medium",
+          "suffix": "",
+          "minMemory": 2
+        }
+      ],
+      "speed": 0.48,
+      "direction": "horizontal",
+      "zIndex": -40,
+      "opacity": 1,
+      "targetElement": "body",
+      "scrollContainer": ".right-area",
+      "repeat": "repeat-x"
+    },
+    {
+      "name": "6",
+      "basePath": "/themes/parallax/assets/6",
+      "format": "png",
+      "qualities": [
+        {
+          "name": "medium",
+          "suffix": "",
+          "minMemory": 2
+        }
+      ],
+      "speed": 0.4,
+      "direction": "horizontal",
+      "zIndex": -30,
+      "opacity": 1,
+      "targetElement": "body",
+      "scrollContainer": ".right-area",
+      "repeat": "repeat-x"
+    }
+  ],
+  "fallbackClass": "parallax-fallback"
+}

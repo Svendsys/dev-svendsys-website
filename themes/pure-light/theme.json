@@ -1,0 +1,9 @@
+{
+  "name": "Pure Light",
+  "description": "Simple and pure light theme",
+  "author": "Mikal Svendsen",
+  "version": "1.0.0",
+  "type": "light",
+  "listPrecedence": 2,
+  "mobileSupported": true
+}

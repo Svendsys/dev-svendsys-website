@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Svendsen Systems",
+  "short_name": "Svendsen Systems",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
+  "icons": [
+    { "src": "/favicon/favicon_192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon/favicon_512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon/favicon_maskable_512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
